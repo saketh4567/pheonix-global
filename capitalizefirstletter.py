@@ -1,3 +1,4 @@
+#capitalize first letter in every word
 a=input()
 b=list(a)
 space=False
