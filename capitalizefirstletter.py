@@ -1,5 +1,5 @@
 #capitalize first letter in every word
-a=input('hello world')
+a="hello world"
 b=list(a)
 space=False
 for i in range(len(b)):
